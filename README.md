@@ -25,9 +25,9 @@ These sheets are a key resource in understanding how to **use**, **store**, and 
 
 Magic American publishes SDS / MSDS on its site, but often as scattered PDFs or behind product pages, making it harder to search, compare, or integrate into digital tools. For example:
 
-- Their **Grout Cleaner (3052)** SDS warns of **severe skin burns and eye damage**. :contentReference[oaicite:0]{index=0}
-- Their **Stainless Steel Cleaner-3062** SDS is marked with **“Warning; Flammable aerosol”** among other hazard statements. :contentReference[oaicite:1]{index=1}
-- Their **Stainless Steel Magic – 3057B** product SDS indicates it’s less hazardous (no signal word) for standard use. :contentReference[oaicite:2]{index=2}
+- Their **Grout Cleaner (3052)** SDS warns of **severe skin burns and eye damage**.
+- Their **Stainless Steel Cleaner-3062** SDS is marked with **“Warning; Flammable aerosol”** among other hazard statements.
+- Their **Stainless Steel Magic – 3057B** product SDS indicates it’s less hazardous (no signal word) for standard use.
 
 We built this repo so that:
 
@@ -56,7 +56,7 @@ We built this repo so that:
 1. **Browse or download** SDS / MSDS files (PDFs) in this repo
 2. **Search or read** specific product sheets or hazard sections
 3. **Build & integrate** into apps, chatbots, dashboards, teaching tools
-4. **Cross-verify** with Magic American’s official site (SDS & Ingredients page) :contentReference[oaicite:3]{index=3}
+4. **Cross-verify** with Magic American’s official site (SDS & Ingredients page)
 5. **Use responsibly** — always default to professional / medical guidance in emergencies
 
 ---
